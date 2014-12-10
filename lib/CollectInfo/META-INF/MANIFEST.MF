@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: hadoop
+Build-Jdk: 1.6.0_43
+
+Main-Class: org.collectinfo.StartCollect   
+Class-Path: mina-core-2.0.2.jar 
+Class-Path: slf4j-api-1.5.11.jar
+Class-Path: slf4j-simple-1.5.6.jar
