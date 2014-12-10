@@ -28,6 +28,7 @@ public class TimeServerHandler implements IoHandler {
         String str = message.toString();
         System.out.println("接受到的消息:"+str);
         //将介绍到的信息写入文件
+        //检查以日期为名的文件夹是否存在,若不存在,就建立一个，如果存在,就写文件
         fileUtil.writeFile(str);
         if( str.trim().equalsIgnoreCase("quit") ) {
             session.close(true);

@@ -20,6 +20,7 @@ public class FileUtil {
     private Calendar calendar=Calendar.getInstance();
     private PrintStream printStream;
     private String filePath=null;
+    private String baseDirPath=configParser.getPros().get("filePath")+"//";
     public void setPrintStream(PrintStream printStream) {
         synchronized (this){
             this.printStream = printStream;
@@ -30,7 +31,7 @@ public class FileUtil {
         synchronized (this){
             if(printStream==null){
                 try{
-                printStream=new PrintStream(new FileOutputStream(configParser.getPros().get("filePath")+"//"+formatDate(new Date())+".txt"));
+                printStream=new PrintStream(new FileOutputStream(baseDirPath+formatDate(new Date())+".txt"));
                 }catch (Exception e){
                     e.printStackTrace();
                 }
@@ -44,7 +45,7 @@ public class FileUtil {
             if(calendar.get(Calendar.DATE)!=c.get(Calendar.DATE)){
                 try{
                  calendar=c;
-                 filePath=configParser.getPros().get("filePath")+"//"+formatDate(new Date())+".txt";
+                 filePath=baseDirPath+formatDate(new Date())+".txt";
                  setPrintStream(new PrintStream(new FileOutputStream(filePath)));
                 }catch (Exception e){
                     e.printStackTrace();
