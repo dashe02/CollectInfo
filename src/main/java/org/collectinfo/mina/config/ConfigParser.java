@@ -12,8 +12,8 @@ import java.util.Properties;
  * To change this template use File | Settings | File Templates.
  */
 public class ConfigParser {
-    private static final String clientInfoPath="../conf/conf.properties";
-    /*private static final String clientInfoPath="conf/conf.properties";*/
+    //private static final String clientInfoPath="../conf/conf.properties";
+    private static final String clientInfoPath="conf/conf.properties";
     public Properties getPros(){
        Properties pro=new Properties();
        try{

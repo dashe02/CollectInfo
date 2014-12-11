@@ -1,6 +1,7 @@
 package org.collectinfo.mina.file;
 
 import org.collectinfo.mina.config.ConfigParser;
+import org.collectinfo.util.StringUtil;
 
 import java.io.*;
 import java.text.SimpleDateFormat;
@@ -31,7 +32,7 @@ public class FileUtil {
         synchronized (this){
             if(printStream==null){
                 try{
-                printStream=new PrintStream(new FileOutputStream(baseDirPath+formatDate(new Date())+".txt"));
+                printStream=new PrintStream(new FileOutputStream(baseDirPath+ StringUtil.formatDate(new Date())+".txt"));
                 }catch (Exception e){
                     e.printStackTrace();
                 }
@@ -45,7 +46,7 @@ public class FileUtil {
             if(calendar.get(Calendar.DATE)!=c.get(Calendar.DATE)){
                 try{
                  calendar=c;
-                 filePath=baseDirPath+formatDate(new Date())+".txt";
+                 filePath=baseDirPath+StringUtil.formatDate(new Date())+".txt";
                  setPrintStream(new PrintStream(new FileOutputStream(filePath)));
                 }catch (Exception e){
                     e.printStackTrace();
@@ -53,10 +54,7 @@ public class FileUtil {
             }
         }
     }
-    public String formatDate(Date d){
-        SimpleDateFormat simpleDateFormat=new SimpleDateFormat("yyyy-MM-dd");
-        return simpleDateFormat.format(d);
-    }
+
     public static void main(String[] args){
         FileUtil fileUtil=new FileUtil();
         for(int i=0;i<1000000000;i++){
