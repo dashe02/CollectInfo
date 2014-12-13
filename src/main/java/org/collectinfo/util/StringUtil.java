@@ -15,4 +15,11 @@ public class StringUtil {
         SimpleDateFormat simpleDateFormat=new SimpleDateFormat("yyyy-MM-dd");
         return simpleDateFormat.format(d);
     }
+    public static String[] parseStringByToken(String s,String token){
+         String[] strings=null;
+         if(s!=null){
+          strings=s.split(token);
+         }
+         return strings;
+    }
 }

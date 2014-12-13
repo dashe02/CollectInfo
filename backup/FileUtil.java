@@ -28,44 +28,29 @@ public class FileUtil {
         }
     }
     public void writeFile(String str){
-        checkDate(str);
+        checkDate();
         synchronized (this){
-            File f=new File(baseDirPath+ StringUtil.formatDate(new Date()));
-            if(!f.exists()){
-               f.mkdir();
-            }
             if(printStream==null){
                 try{
-                printStream=new PrintStream(new FileOutputStream(baseDirPath+ StringUtil.formatDate(new Date())+"//"+StringUtil.parseStringByToken(str,":")[0]+".txt"));
+                printStream=new PrintStream(new FileOutputStream(baseDirPath+ StringUtil.formatDate(new Date())+".txt"));
                 }catch (Exception e){
                     e.printStackTrace();
                 }
                 }
-            printStream.append(StringUtil.parseStringByToken(str,":")[1]+"\r\n");
+            printStream.append(str+"\r\n");
         }
     }
-    protected void checkDate(String str){
+    protected void checkDate(){
         Calendar c=Calendar.getInstance();
         synchronized (this){
             if(calendar.get(Calendar.DATE)!=c.get(Calendar.DATE)){
                 try{
                  calendar=c;
-                 filePath=baseDirPath+StringUtil.formatDate(new Date());
-                 new File(filePath).mkdir();
-                 //setPrintStream(new PrintStream(new FileOutputStream(filePath)));
+                 filePath=baseDirPath+StringUtil.formatDate(new Date())+".txt";
+                 setPrintStream(new PrintStream(new FileOutputStream(filePath)));
                 }catch (Exception e){
                     e.printStackTrace();
                 }
-            }
-            if(new File(baseDirPath+StringUtil.formatDate(new Date())).exists()){
-               try{
-                filePath=baseDirPath+StringUtil.formatDate(new Date())+"//"+StringUtil.parseStringByToken(str,":")[0]+".txt";
-                if(!new File(filePath).exists()){
-                setPrintStream(new PrintStream(new FileOutputStream(filePath)));
-                }
-               }catch (Exception e){
-                   e.printStackTrace();
-               }
             }
         }
     }
