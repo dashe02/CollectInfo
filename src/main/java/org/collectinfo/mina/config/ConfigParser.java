@@ -13,7 +13,7 @@ import java.util.Properties;
  */
 public class ConfigParser {
     //private static final String clientInfoPath="../conf/conf.properties";
-    private static final String clientInfoPath="../conf/conf.properties";
+    private static final String clientInfoPath="conf/conf.properties";
     public Properties getPros(){
        Properties pro=new Properties();
        try{

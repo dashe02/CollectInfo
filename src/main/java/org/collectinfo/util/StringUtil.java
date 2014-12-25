@@ -22,4 +22,14 @@ public class StringUtil {
          }
          return strings;
     }
+    public static Date StringToDate(String s){
+        SimpleDateFormat simpleDateFormat=new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
+        Date d=null;
+        try{
+            d=simpleDateFormat.parse(s);
+        }catch (Exception e){
+            e.printStackTrace();
+        }
+        return d;
+    }
 }

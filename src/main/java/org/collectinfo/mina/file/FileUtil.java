@@ -32,7 +32,7 @@ public class FileUtil {
         synchronized (this){
             File f=new File(baseDirPath+ StringUtil.formatDate(new Date()));
             if(!f.exists()){
-               f.mkdir();
+               f.mkdirs();
             }
             if(printStream==null){
                 try{
@@ -51,7 +51,7 @@ public class FileUtil {
                 try{
                  calendar=c;
                  filePath=baseDirPath+StringUtil.formatDate(new Date());
-                 new File(filePath).mkdir();
+                 new File(filePath).mkdirs();
                  //setPrintStream(new PrintStream(new FileOutputStream(filePath)));
                 }catch (Exception e){
                     e.printStackTrace();

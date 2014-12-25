@@ -9,10 +9,10 @@
     <file path="/fragment.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418203732239" ignored="false" />
     <file path="/NIOClient.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418006485104" ignored="false" />
     <file path="E:/git/sqlreceive/src/main/java/com/nio/NIOServer.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418022286764" ignored="false" />
-    <file path="/pom.xml" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418288577804" ignored="false" />
+    <file path="/pom.xml" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1419343368160" ignored="false" />
     <file path="/BaseConfig.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418018829289" ignored="false" />
-    <file path="/MimaTimeClient.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418465584628" ignored="false" />
-    <file path="/Dummy.txt" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418478488685" ignored="false" />
+    <file path="/MimaTimeClient.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1419326647773" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1419510107657" ignored="false" />
     <file path="/ServerStartListener.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418022941561" ignored="false" />
     <file path="/NIOServer.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418023591191" ignored="false" />
     <file path="E:/git/sqlreceive/pom.xml" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418024242136" ignored="false" />
@@ -25,23 +25,23 @@
     <file path="/client.conf.properties" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418025290254" ignored="false" />
     <file path="$PROJECT_DIR$/../collectClient/pom.xml" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418192117712" ignored="false" />
     <file path="$PROJECT_DIR$/../collectClient/src/main/java/org/collectinfo/mina/client/client/TimeClientHander.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418465648043" ignored="false" />
-    <file path="$PROJECT_DIR$/../collectClient/src/main/java/org/collectinfo/mina/client/client/MimaTimeClient.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418466046975" ignored="false" />
+    <file path="$PROJECT_DIR$/../collectClient/src/main/java/org/collectinfo/mina/client/client/MimaTimeClient.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1419326896117" ignored="false" />
     <file path="$PROJECT_DIR$/../collectClient/src/main/java/org/collectinfo/mina/client/config/Config.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418025509917" ignored="false" />
     <file path="/Config.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418025688988" ignored="false" />
-    <file path="$PROJECT_DIR$/../collectClient/src/main/java/org/collectinfo/mina/client/config/ConfigParser.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418476333927" ignored="false" />
+    <file path="$PROJECT_DIR$/../collectClient/src/main/java/org/collectinfo/mina/client/config/ConfigParser.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1419333167326" ignored="false" />
     <file path="E:/git/sqlreceive/src/main/java/com/conf/ConfigParse.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418025590064" ignored="false" />
     <file path="/ConfigParse.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418025586433" ignored="false" />
     <file path="/ConfigParser.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418025689336" ignored="false" />
     <file path="$PROJECT_DIR$/../collectClient/conf/conf.properties" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418211320058" ignored="false" />
-    <file path="/conf.properties" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418464083251" ignored="false" />
+    <file path="/conf.properties" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1419510919260" ignored="false" />
     <file path="/MinaTimeServer.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418135526731" ignored="false" />
     <file path="$PROJECT_DIR$/../collectClient/src/main/java/org/collectinfo/mina/client/schedule/MyTimer.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418040075317" ignored="false" />
     <file path="$PROJECT_DIR$/../collectClient/src/main/java/org/collectinfo/mina/client/collectinfo/LinuxSystemTool.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418191876909" ignored="false" />
     <file path="/LinuxSystemTool.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418190433727" ignored="false" />
     <file path="/MyTimer.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418038107060" ignored="false" />
     <file path="E:/openclouddb/trunk/MyCAT/src/main/java/org/opencloudb/MycatServer.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418039132544" ignored="false" />
-    <file path="/TimeServerHandler.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418208968635" ignored="false" />
-    <file path="/FileUtil.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418477491465" ignored="false" />
+    <file path="/TimeServerHandler.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1419511289651" ignored="false" />
+    <file path="/FileUtil.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1419316659422" ignored="false" />
     <file path="$PROJECT_DIR$/../platform/riskManagement/riskManagement-business/riskManagement-business-craneInspectReport/src/main/java/org/whut/platform/business/craneinspectreport/entity/RiskTempTable.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418105885842" ignored="false" />
     <file path="/RiskTempTable.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418105865738" ignored="false" />
     <file path="$PROJECT_DIR$/../platform/riskManagement/riskManagement-business/riskManagement-business-craneInspectReport/src/main/java/org/whut/platform/business/craneinspectreport/mapper/CraneInspectReportMapper.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418106619770" ignored="false" />
@@ -49,15 +49,15 @@
     <file path="$PROJECT_DIR$/../platform/riskManagement/riskManagement-business/riskManagement-business-craneInspectReport/src/main/java/org/whut/platform/business/craneinspectreport/service/CraneInspectReportService.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418106645652" ignored="false" />
     <file path="$PROJECT_DIR$/../platform/riskManagement/riskManagement-business/riskManagement-business-craneInspectReport/src/main/java/org/whut/platform/business/craneinspectreport/web/CraneInspectReportServiceWeb.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418106604885" ignored="false" />
     <file path="/CraneInspectReportService.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418106638729" ignored="false" />
-    <file path="/ReadFile.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418466420383" ignored="false" />
+    <file path="/ReadFile.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1419338490202" ignored="false" />
     <file path="/StartCollect.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418182313239" ignored="false" />
     <file path="/startup.bat" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418135623116" ignored="false" />
     <file path="$PROJECT_DIR$/../collectClient/src/main/java/org/collectinfo/mina/client/collectinfo/CollectSystemInfo.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418190404499" ignored="false" />
     <file path="/CollectSystemInfo.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418190392794" ignored="false" />
     <file path="$PROJECT_DIR$/../collectClient/src/main/java/org/collectinfo/mina/client/collectinfo/WindowsSystemTool.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418191831102" ignored="false" />
     <file path="/WindowsSystemTool.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418190818047" ignored="false" />
-    <file path="$PROJECT_DIR$/../collectClient/src/main/java/org/collectinfo/mina/client/collectinfo/CollectSytemInfo.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418467579244" ignored="false" />
-    <file path="/CollectSytemInfo.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418466112350" ignored="false" />
+    <file path="$PROJECT_DIR$/../collectClient/src/main/java/org/collectinfo/mina/client/collectinfo/CollectSytemInfo.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1419324967426" ignored="false" />
+    <file path="/CollectSytemInfo.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1419324966883" ignored="false" />
     <file path="$PROJECT_DIR$/../collectClient/src/test/java/Test.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418194018968" ignored="false" />
     <file path="/Test.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418193996633" ignored="false" />
     <file path="$PROJECT_DIR$/../collectClient/src/main/java/org/collectinfo/mina/client/collectinfo/SystemParameter.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418202490395" ignored="false" />
@@ -72,9 +72,16 @@
     <file path="/JsonUtil.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418294770699" ignored="false" />
     <file path="$PROJECT_DIR$/../platform/fundamental/fundamental-util/src/main/java/org/whut/platform/fundamental/util/json/JsonMapper.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418294031821" ignored="false" />
     <file path="/JsonMapper.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418289281619" ignored="false" />
-    <file path="/StringUtil.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418466723939" ignored="false" />
+    <file path="/StringUtil.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1419337464181" ignored="false" />
     <file path="/SPT.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418360128547" ignored="false" />
     <file path="/TimeClientHander.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418465621800" ignored="false" />
+    <file path="/FileProcess.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1419338145455" ignored="false" />
+    <file path="/MatLabProcess.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1419344862514" ignored="false" />
+    <file path="/PredictParameter.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418717319894" ignored="false" />
+    <file path="/LoadWeightProcess.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1419511703997" ignored="false" />
+    <file path="/NginxParameter.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1418720260944" ignored="false" />
+    <file path="$PROJECT_DIR$/../platform/fundamental/fundamental-redisConnector/src/main/java/org/whut/platform/fundamental/redis/connector/RedisConnector.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1419510183734" ignored="false" />
+    <file path="/RedisConnector.java" changelist="8a430815-d5ec-4007-823f-261b61128cab" time="1419511257127" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +90,9 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CollectInfo$FileProcess.coverage" NAME="FileProcess Coverage Results" MODIFIED="1418709435623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.collectinfo.fileProcess.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/CollectInfo$ReadFile.coverage" NAME="ReadFile Coverage Results" MODIFIED="1418300338006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>org.collectinfo.mina.file.*</FILTER>
     </SUITE>
@@ -94,7 +104,8 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -129,8 +140,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -140,11 +150,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="StartCollect.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/StartCollect.java">
+      <file leaf-file-name="LoadWeightProcess.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/analysisWeight/LoadWeightProcess.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="19" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="75" column="72" selection-start="3352" selection-end="3352" vertical-scroll-proportion="0.5452632">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1006#1022#0" expanded="true" />
+                <element signature="e#1961#1977#0" expanded="true" />
+                <element signature="e#2171#2200#0" expanded="true" />
+                <element signature="e#3268#3276#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedisConnector.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/redis/RedisConnector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="75" column="41" selection-start="2637" selection-end="2637" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -152,10 +179,8 @@
       <file leaf-file-name="MinaTimeServer.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/mina/server/MinaTimeServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="16" selection-start="901" selection-end="901" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+            <state line="23" column="4" selection-start="889" selection-end="889" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -163,39 +188,25 @@
       <file leaf-file-name="TimeServerHandler.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/mina/server/TimeServerHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="0" selection-start="903" selection-end="903" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConfigParser.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/mina/config/ConfigParser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="51" selection-start="436" selection-end="436" vertical-scroll-proportion="0.73015875">
+            <state line="41" column="53" selection-start="1444" selection-end="1444" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReadFile.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/mina/file/ReadFile.java">
+      <file leaf-file-name="StringUtil.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/util/StringUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="4" selection-start="1450" selection-end="1450" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#1223#1417#0" expanded="true" />
-                <element signature="e#1341#1342#0" expanded="true" />
-              </folding>
+            <state line="12" column="13" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileUtil.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/mina/file/FileUtil.java">
+      <file leaf-file-name="NginxParameter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/nginx/NginxParameter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="72" selection-start="1474" selection-end="1474" vertical-scroll-proportion="0.0">
+            <state line="11" column="51" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -204,7 +215,16 @@
       <file leaf-file-name="conf.properties" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conf/conf.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="33" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0">
+            <state line="29" column="0" selection-start="485" selection-end="485" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MatLabProcess.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/matlab/MatLabProcess.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="26" selection-start="664" selection-end="664" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -220,22 +240,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/org/collectinfo/nio/SocketTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/collectinfo/nio/NIOServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/collectinfo/mina/client/MimaTimeClient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/collectinfo/mina/server/MinaTimeServer.java" />
-        <option value="$PROJECT_DIR$/bin/startup.bat" />
-        <option value="$PROJECT_DIR$/src/main/java/org/collectinfo/StartCollect.java" />
         <option value="$PROJECT_DIR$/readme.txt" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/org/collectinfo/util/JsonUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/collectinfo/algorithm/SPT.java" />
-        <option value="$PROJECT_DIR$/conf/conf.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/org/collectinfo/util/StringUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/collectinfo/mina/file/ReadFile.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/collectinfo/mina/server/TimeServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/collectinfo/matlab/PredictParameter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/collectinfo/nginx/NginxParameter.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/collectinfo/mina/file/FileUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/collectinfo/mina/config/ConfigParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/collectinfo/mina/file/ReadFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/collectinfo/fileProcess/FileProcess.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/collectinfo/matlab/MatLabProcess.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/collectinfo/util/StringUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/collectinfo/redis/RedisConnector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/collectinfo/mina/server/TimeServerHandler.java" />
+        <option value="$PROJECT_DIR$/conf/conf.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/org/collectinfo/analysisWeight/LoadWeightProcess.java" />
       </list>
     </option>
   </component>
@@ -268,10 +288,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="-48" />
+    <option name="y" value="57" />
     <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -405,67 +425,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CollectInfo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CollectInfo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="collectinfo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CollectInfo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CollectInfo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="collectinfo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mina" />
+              <option name="myItemId" value="redis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -499,7 +459,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="file" />
+              <option name="myItemId" value="server" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -530,40 +490,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="mina" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CollectInfo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CollectInfo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="collectinfo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithm" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -624,7 +550,7 @@
       <recent name="E:\gitcom\CollectInfo\src\main\java\org\collectinfo\nio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StartCollect">
+  <component name="RunManager" selected="Application.LoadWeightProcess">
     <configuration default="false" name="FileUtil" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -681,56 +607,6 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="JsonUtil" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="org.collectinfo.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="org.collectinfo.util.JsonUtil" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CollectInfo" />
-      <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPT" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="org.collectinfo.algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="org.collectinfo.algorithm.SPT" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CollectInfo" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="ConfigParser" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -739,6 +615,58 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="org.collectinfo.mina.config.ConfigParser" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CollectInfo" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="FileProcess" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.collectinfo.fileProcess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.collectinfo.fileProcess.FileProcess" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CollectInfo" />
+      <envs />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Cover" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="LoadWeightProcess" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.collectinfo.analysisWeight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.collectinfo.analysisWeight.LoadWeightProcess" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -899,17 +827,17 @@
       <item index="0" class="java.lang.String" itemvalue="Application.ReadFile" />
       <item index="1" class="java.lang.String" itemvalue="Application.FileUtil" />
       <item index="2" class="java.lang.String" itemvalue="Application.StartCollect" />
-      <item index="3" class="java.lang.String" itemvalue="Application.JsonUtil" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SPT" />
-      <item index="5" class="java.lang.String" itemvalue="Application.ConfigParser" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ConfigParser" />
+      <item index="4" class="java.lang.String" itemvalue="Application.FileProcess" />
+      <item index="5" class="java.lang.String" itemvalue="Application.LoadWeightProcess" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.StartCollect" />
-        <item index="1" class="java.lang.String" itemvalue="Application.FileUtil" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ConfigParser" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SPT" />
-        <item index="4" class="java.lang.String" itemvalue="Application.JsonUtil" />
+        <item index="0" class="java.lang.String" itemvalue="Application.LoadWeightProcess" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FileProcess" />
+        <item index="2" class="java.lang.String" itemvalue="Application.StartCollect" />
+        <item index="3" class="java.lang.String" itemvalue="Application.FileUtil" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ConfigParser" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -950,32 +878,32 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <frame x="-48" y="57" width="1382" height="728" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43321916" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5485009" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6174957" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3242424" sideWeight="0.5385935" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.047727272" sideWeight="0.94708997" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15075758" sideWeight="0.5385935" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.46140653" sideWeight="0.9932039" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0" sideWeight="0.94708997" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.052910052" sideWeight="0.9932039" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32844037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.012878788" sideWeight="0.55307263" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32804233" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0" sideWeight="0.4229452" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1040,122 +968,133 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/algorithm/SPT.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/StartCollect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="227" column="17" selection-start="6044" selection-end="6044" vertical-scroll-proportion="0.49642858">
+        <state line="14" column="14" selection-start="352" selection-end="352" vertical-scroll-proportion="0.5423729">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backup/ReadFile.java">
+    <entry file="jar://F:/Program Files(x86)/Java/jdk1.6.0_43/src.zip!/java/text/SimpleDateFormat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="472" column="11" selection-start="18679" selection-end="18679" vertical-scroll-proportion="0.33147633" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/mina/config/ConfigParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="48" selection-start="433" selection-end="433" vertical-scroll-proportion="0.05882353">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backup/FileUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/fileProcess/FileProcess.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="20" column="58" selection-start="476" selection-end="529" vertical-scroll-proportion="0.25576037">
+          <folding>
+            <element signature="e#919#946#0" expanded="true" />
+            <element signature="e#1348#1369#0" expanded="true" />
+            <element signature="e#1815#1837#0" expanded="true" />
+            <element signature="e#2509#2525#0" expanded="true" />
+            <element signature="e#2848#2864#0" expanded="true" />
+            <element signature="e#3659#3686#0" expanded="true" />
+            <element signature="e#3804#3826#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/mina/file/ReadFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="18" selection-start="934" selection-end="934" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1234#1429#0" expanded="true" />
+            <element signature="e#1353#1354#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/matlab/PredictParameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="27" selection-start="322" selection-end="322" vertical-scroll-proportion="0.06308411">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="47" selection-start="1499" selection-end="1499" vertical-scroll-proportion="0.4070513">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/util/StringUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="18" selection-start="460" selection-end="460" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Program Files(x86)/Java/jdk1.6.0_43/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="19" selection-start="3593" selection-end="3593" vertical-scroll-proportion="0.33246753">
+        <state line="12" column="13" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/conf/conf.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="33" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/mina/file/ReadFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="4" selection-start="1450" selection-end="1450" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#1223#1417#0" expanded="true" />
-            <element signature="e#1341#1342#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/mina/mina-core/2.0.2/mina-core-2.0.2.jar!/org/apache/mina/filter/logging/LoggingFilter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="16" selection-start="1763" selection-end="1763" vertical-scroll-proportion="-3.64">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/mina/mina-core/2.0.2/mina-core-2.0.2.jar!/org/apache/mina/filter/codec/ProtocolCodecFilter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="16" selection-start="1905" selection-end="1905" vertical-scroll-proportion="0.30514705">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/mina/mina-core/2.0.2/mina-core-2.0.2.jar!/org/apache/mina/core/filterchain/IoFilterAdapter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="16" selection-start="2408" selection-end="2408" vertical-scroll-proportion="-3.64">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/mina/mina-core/2.0.2/mina-core-2.0.2.jar!/org/apache/mina/core/filterchain/DefaultIoFilterChain.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="16" selection-start="5526" selection-end="5526" vertical-scroll-proportion="0.332">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/mina/server/TimeServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="903" selection-end="903" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/mina/server/MinaTimeServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="16" selection-start="901" selection-end="901" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/StartCollect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="19" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0">
+        <state line="29" column="0" selection-start="485" selection-end="485" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/mina/file/FileUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="72" selection-start="1474" selection-end="1474" vertical-scroll-proportion="0.0">
+        <state line="29" column="16" selection-start="840" selection-end="840" vertical-scroll-proportion="-0.86105263">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/mina/config/ConfigParser.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/mina/server/TimeServerHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="51" selection-start="436" selection-end="436" vertical-scroll-proportion="0.73015875">
+        <state line="41" column="53" selection-start="1444" selection-end="1444" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/redis/RedisConnector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="41" selection-start="2637" selection-end="2637" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/mina/server/MinaTimeServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="4" selection-start="889" selection-end="889" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/matlab/MatLabProcess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="26" selection-start="664" selection-end="664" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/nginx/NginxParameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="51" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/collectinfo/analysisWeight/LoadWeightProcess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="72" selection-start="3352" selection-end="3352" vertical-scroll-proportion="0.5452632">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1006#1022#0" expanded="true" />
+            <element signature="e#1961#1977#0" expanded="true" />
+            <element signature="e#2171#2200#0" expanded="true" />
+            <element signature="e#3268#3276#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

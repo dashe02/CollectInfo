@@ -12,10 +12,15 @@ import java.util.Date;
 import org.apache.mina.core.service.IoHandler;
 import org.apache.mina.core.session.IdleStatus;
 import org.apache.mina.core.session.IoSession;
+import org.collectinfo.mina.config.ConfigParser;
 import org.collectinfo.mina.file.FileUtil;
+import org.collectinfo.redis.RedisConnector;
+import org.collectinfo.util.StringUtil;
 
 public class TimeServerHandler implements IoHandler {
     private FileUtil fileUtil=new FileUtil();
+    private ConfigParser configParser=new ConfigParser();
+    private RedisConnector redisConnector=new RedisConnector();
     @Override
     public void exceptionCaught(IoSession arg0, Throwable arg1)
             throws Exception {
@@ -29,6 +34,12 @@ public class TimeServerHandler implements IoHandler {
         System.out.println("接受到的消息:"+str);
         //将介绍到的信息写入文件
         //检查以日期为名的文件夹是否存在,若不存在,就建立一个，如果存在,就写文件
+        String ipKey=StringUtil.parseStringByToken(str,":")[0];
+        String currentValue=StringUtil.parseStringByToken(str,":")[1];
+        if(redisConnector.get(ipKey)!=null){
+            redisConnector.remove(ipKey);
+        }
+        redisConnector.set(ipKey,Integer.parseInt(configParser.getPros().get("redis.expire").toString()),currentValue);
         fileUtil.writeFile(str);
         if( str.trim().equalsIgnoreCase("quit") ) {
             session.close(true);

@@ -1,7 +1,7 @@
 package org.collectinfo.mina.file;
 
+import org.collectinfo.fileProcess.FileProcess;
 import org.collectinfo.mina.config.ConfigParser;
-import org.collectinfo.util.JsonUtil;
 import org.collectinfo.util.StringUtil;
 
 import java.io.*;
@@ -21,6 +21,7 @@ public class ReadFile {
     private final int SECOND=Integer.parseInt(configParser.getPros().get("SECOND").toString());
     private final int delay=Integer.parseInt(configParser.getPros().get("delay").toString());
     private final String baseDir=configParser.getPros().get("filePath").toString()+"//";
+
     public void ReadFileTask(){
         Calendar cal=Calendar.getInstance();
         //每天定点执行
@@ -32,6 +33,7 @@ public class ReadFile {
             @Override
             public void run() {
               //读文件并处理 hadoop可能处理
+
             }                           //cal.getTime()为得出执行任务的时间,为今天的12:00:00
         },cal.getTime(),delay);
     }
